@@ -8,7 +8,6 @@
 
 <ul>
   <li><a class="active" href="index.php">Home</a></li>
-  <li><a href="courses.php">Courses</a></li>
+  <li><a href="Courses.php">Courses</a></li>
   <li><a href="MorseDecoder.php">Morse Translator</a></li>
-  <li><a href="#about">Sandbox</a></li>
 </ul>
